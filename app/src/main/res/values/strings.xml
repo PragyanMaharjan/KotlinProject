@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Thriftclothing</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="accessory_hint">Accessory</string>
+    <string name="price_hint">Price</string>
+    <string name="size_hint">Size</string>
+    <string name="color_hint">Color</string>
+
+</resources>
+
